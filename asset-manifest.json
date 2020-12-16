@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Administrador-de-citas-React/static/css/main.9872fe4f.chunk.css",
+    "main.js": "/Administrador-de-citas-React/static/js/main.d46f9d3b.chunk.js",
+    "main.js.map": "/Administrador-de-citas-React/static/js/main.d46f9d3b.chunk.js.map",
+    "runtime-main.js": "/Administrador-de-citas-React/static/js/runtime-main.166db95b.js",
+    "runtime-main.js.map": "/Administrador-de-citas-React/static/js/runtime-main.166db95b.js.map",
+    "static/js/2.77d7ab11.chunk.js": "/Administrador-de-citas-React/static/js/2.77d7ab11.chunk.js",
+    "static/js/2.77d7ab11.chunk.js.map": "/Administrador-de-citas-React/static/js/2.77d7ab11.chunk.js.map",
+    "static/js/3.8b3c9eca.chunk.js": "/Administrador-de-citas-React/static/js/3.8b3c9eca.chunk.js",
+    "static/js/3.8b3c9eca.chunk.js.map": "/Administrador-de-citas-React/static/js/3.8b3c9eca.chunk.js.map",
+    "index.html": "/Administrador-de-citas-React/index.html",
+    "static/css/main.9872fe4f.chunk.css.map": "/Administrador-de-citas-React/static/css/main.9872fe4f.chunk.css.map",
+    "static/js/2.77d7ab11.chunk.js.LICENSE.txt": "/Administrador-de-citas-React/static/js/2.77d7ab11.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.166db95b.js",
+    "static/js/2.77d7ab11.chunk.js",
+    "static/css/main.9872fe4f.chunk.css",
+    "static/js/main.d46f9d3b.chunk.js"
+  ]
+}
